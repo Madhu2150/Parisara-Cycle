@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873100195293",
+    "project_id": "parisara-cycle-20865",
+    "storage_bucket": "parisara-cycle-20865.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873100195293:android:7e96abfe520afcdf86b234",
+        "android_client_info": {
+          "package_name": "com.parisara.cycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHep4bQUcBPYQC1-ERg_JAmA7-24V7sPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
